@@ -19,4 +19,8 @@
 * Can consistenly duplicate data.
 * AWS (IAM) is basically a service that helps you keep access to AWS resources.
 
+### 4.) Free AWS Services
+* IAM- Identity and Access Management
+* 
+
 
