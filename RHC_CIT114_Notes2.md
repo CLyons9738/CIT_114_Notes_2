@@ -13,3 +13,6 @@
 * Infrastructure 
 * Installation of softwares
 * Having to maintain the systems so they dont go down and if they do its only for a bit.
+### 3.) AWS Orgs. and Terms
+* An AWS master account lets you have multiple accounts join your group.
+* You can make a main account then have umbrella accounts. Sorta like a family tree with one main boss.
