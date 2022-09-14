@@ -7,8 +7,8 @@
 * Making sure youre not spending extra money on unnecessary stuff
 
 ### 2.) TCO: Components
-* Hardware 
-* Power
+* Keeping your hardware up to date
+* Power for your systems
 * Downtime of systems
 * Infrastructure 
 * Installation of softwares
@@ -16,3 +16,7 @@
 ### 3.) AWS Orgs. and Terms
 * An AWS master account lets you have multiple accounts join your group.
 * You can make a main account then have umbrella accounts. Sorta like a family tree with one main boss.
+* Can consistenly duplicate data.
+* AWS (IAM) is basically a service that helps you keep access to AWS resources.
+
+
