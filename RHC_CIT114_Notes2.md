@@ -21,6 +21,9 @@
 
 ### 4.) Free AWS Services
 * IAM- Identity and Access Management
-* 
+* 30 free gigabytres of EBS(Elastic Block Store)
+* Automatically scales the ammount of gigabytes you will need. 
+* 750 hours of EC2, RDS, ElastiCache, and Elastic Load Balancer
+* Access to Private cloud 24/7
 
 
